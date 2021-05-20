@@ -1,7 +1,7 @@
 ## Hi there, I'm QuaKe!
-![](https://shields.io/twitter/follow/QuaKeWasTaken?label=Follow)
+<a href="https://twitter.com/QuaKeWasTaken">![](https://shields.io/twitter/follow/QuaKeWasTaken?label=Follow)</a>
 <br>
-![](https://shields.io/youtube/channel/subscribers/UCtOKqv3Jh7i4_nmP3PxhzxQ)
+<a href="https://www.youtube.com/channel/UCtOKqv3Jh7i4_nmP3PxhzxQ">![](https://shields.io/youtube/channel/subscribers/UCtOKqv3Jh7i4_nmP3PxhzxQ)</a>
 <br>
 ![](https://shields.io/github/followers/QuaKe8782?label=Follow)
 ![](https://shields.io/github/stars/QuaKe8782?affiliations=OWNER%2CCOLLABORATOR)
